@@ -8,6 +8,13 @@
       "when": 1795010565829,
       "tag": "0000_yummy_talkback",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795399023849,
+      "tag": "0001_kosd_restructure",
+      "breakpoints": true
     }
   ]
 }
